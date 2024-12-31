@@ -126,6 +126,29 @@ The rise in the demand of transportation of shipment from one place to another a
  
 Due to all these factors it became necessary to keep track of all whereabouts of the shipments. Logistics system not only helps us to keep track of them but also provides us with better solutions and helps us to get maximum utilization of the available resources. Keeping track of any shipment and knowing its current status becomes easy. 
 
+# Getting Started: 
+  To replicate this analysis or build on it, follow these steps:
+  
+  1.Clone the repository:
+  
+      git clone https://github.com/Gtshivanand/Logistic Company's Data Analysis - MySQL.git
+  
+  2.Import the Dataset into MySQL:
+  
+  Import the nifty_data.csv file into your MySQL database.
+  
+  Use the provided nifty_data.
+  
+  sql script to create the necessary table and load the data.
+  
+  3.Run SQL Queries:
+  
+  You can run the SQL queries provided in the queries/ directory or modify them to explore other aspects of the data.
+  
+  4.Perform Analysis:
+  
+  Use the queries and results to perform your analysis, explore trends, and test trading strategies.
+
  # Contact:
 
 For any inquiries or suggestions, feel free to reach out:
