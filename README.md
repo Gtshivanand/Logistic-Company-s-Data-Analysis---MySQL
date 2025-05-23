@@ -1,5 +1,7 @@
 # Logistic Company's Data Analysis - MySQL
 
+<img src="https://github.com/Gtshivanand/Logistic-Company-s-Data-Analysis---MySQL/blob/main/Logistic%20Company's%20Data%20Analysis.jpg"/>
+
   This project involves analyzing the operational data of a logistics company to gain actionable insights. The analysis leverages MySQL for querying and managing the dataset, focusing on key performance indicators such as delivery times, shipping costs, and customer satisfaction rates.
 
 # ABSTRACT: 
